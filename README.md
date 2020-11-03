@@ -1,6 +1,6 @@
 
 
-This is a multi-threaded CPU pool miner for M7M/Magi (XMG).
+This is a multi-threaded CPU pool miner for M7M/Magi (XMG) and NOBL/Noble coin.
 
 This miner designates control of the CPU usage. The core hash function is optimzed based the code released by Wolf0 mainly by revising <m7mhash.c>
 see: https://github.com/maribun20/m-cpuminer-v2-2.5
